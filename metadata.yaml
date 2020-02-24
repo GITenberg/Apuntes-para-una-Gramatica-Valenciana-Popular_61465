@@ -1,11 +1,16 @@
 _repo: Apuntes-para-una-Gramatica-Valenciana-Popular_61465
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61465-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez, José Nebot y
     gutenberg_agent_id: '51442'
     url: http://www.gutenberg.org/2009/agents/51442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61465#Apuntes-para-una-Gramatica-Valenciana-Popular
 gutenberg_issued: '2020-02-20'
 gutenberg_type: Text
 identifiers:
